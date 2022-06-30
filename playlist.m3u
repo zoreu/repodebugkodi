@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Mabel ft 24kGoldn - Overthinking
-plugin://plugin.video.tubemusic/?video_id=qAZaDm-6jBI
+plugin://plugin.video.youtube/play/?video_id=qAZaDm-6jBI
 #EXTINF:-1,Lady Gaga - Hold My Hand
-plugin://plugin.video.tubemusic/?video_id=O2CIAKVTOrc
+plugin://plugin.video.youtube/play/?video_id=O2CIAKVTOrc
